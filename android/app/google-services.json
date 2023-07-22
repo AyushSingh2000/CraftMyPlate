@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697271380505",
+    "project_id": "createmyplateauth",
+    "storage_bucket": "createmyplateauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697271380505:android:6556183029040faa625888",
+        "android_client_info": {
+          "package_name": "com.example.craftmypalate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697271380505-0p5de4lpqq1kjhl453cc13offuh7bsrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.craftmypalate",
+            "certificate_hash": "b520b6659ec97c5ee15791e7ddf78fe10d9b058a"
+          }
+        },
+        {
+          "client_id": "697271380505-inp6olcecnh2icbt5i8op2ck1abe87b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNvRCs29QHfEwPHfihUp18IVQDYrcrF_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697271380505-inp6olcecnh2icbt5i8op2ck1abe87b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
